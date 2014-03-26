@@ -1,15 +1,15 @@
 
-## Tienda de Videos Sevastopol
+##Tienda de Videos Sevastopol
 
-Alquiler de Peliculas, Video Juegos.
+*Alquiler de Peliculas, Video Juegos.
 
-### Peliculas
-** Alquiler de Peliculas en formato DVD, BlueRay.
-** Diversas Categorias Infatil, Accion, Drama, Ciencia Ficcion, ect.
-** Estrenos y no Estenos.
+###Peliculas
+**Alquiler de Peliculas en formato DVD, BlueRay.
+**Diversas Categorias Infatil, Accion, Drama, Ciencia Ficcion, ect.
+**Estrenos y no Estenos.
 
 ### Video Juego	
-** Alquiler de Video Juegos para diferentes Consolas.
-** Diversas Categorias
+**Alquiler de Video Juegos para diferentes Consolas.
+**Diversas Categorias
 
 
